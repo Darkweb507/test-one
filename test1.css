@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo+Play:wght@300&family=Roboto+Slab:wght@100&display=swap')
+button {
+  width: 150px;
+  height: 125px
+  color: orange;
+  background: purple;
+}
+.66{
+    size: 125px;
+}
+header{
+    font-family: 'Cairo Play', cursive;
+    size: 25px;
+    background:#212529 ;
+    
+    height: 100px;
+}
